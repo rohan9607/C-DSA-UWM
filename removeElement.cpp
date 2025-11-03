@@ -72,7 +72,6 @@ public:
 };
 
 int main(){
-
     Solution s;
     vector<int> arr = {1, 1};
     s.removeElement(arr, 1);
